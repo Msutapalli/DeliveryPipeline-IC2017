@@ -1,6 +1,6 @@
 applications:
 - path: target/JavaHelloWorldApp.war
-  memory: 5120000M
+  memory: 512M
   instances: 1
   domain: mybluemix.net
   name: DeliveryPipeline-IC2017
